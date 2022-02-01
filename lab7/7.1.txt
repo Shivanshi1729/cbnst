@@ -1,0 +1,19 @@
+Enter the number of equation:: 3
+Enter the equations
+a+b-c=2
+n :: 3   eq :: a+b-c=2 
+Parsing eq:: 1.000000 1.000000 -1.000000 2.000000 
+2a+b+c=5
+n :: 3   eq :: 2a+b+c=5 
+Parsing eq:: 2.000000 1.000000 1.000000 5.000000 
+-a+2b+2c=1
+n :: 3   eq :: -a+2b+2c=1 
+Parsing eq:: -1.000000 2.000000 2.000000 1.000000 
+Input Matrix:: 
+1.00 1.00 -1.00  | 2.00 
+2.00 1.00 1.00  | 5.00 
+-1.00 2.00 2.00  | 1.00 
+Solutions: 
+a = 1.800000
+b = 0.800000
+c = 0.600000
